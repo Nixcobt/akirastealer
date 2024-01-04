@@ -46,7 +46,7 @@ Main features:
 - Filter logs for wallets/passwords/cookies, etc.
 - Add a note for every infected clients
 - Download all data with a single click
-- Bruteforce MetaMask wallets using all client's passwords.
+- Bruteforce MetaMask wallets using all client's passwords
 
 # To get a license you can DM [@nuoxetin](https://t.me/nuoxetin) on telegram https://t.me/nuoxetin - [@AkiraRedBot](https://t.me/AkiraRedBot)
 
