@@ -1,5 +1,5 @@
 
-# 🚀 Akira Stealer
+# Akira Stealer
 
 Akira Stealer is an undetected stealer that can bypass every antivirus and steals data from victims, such as discord token, passwords, cookies, crypto wallets + extensions. 
 
