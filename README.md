@@ -35,7 +35,7 @@ To get a license you can DM [@nuoxetin](https://t.me/nuoxetin) on telegram https
 
 
 # 💊 Akira Panel
-Lifetime subscription include a panel that automatically manage, view, download  the logs that you receive by your discord webhook.
+Lifetime subscription include a panel that automatically manage, view, download  the logs that you receive by your discord webhook
 
 Main features:
 - Access to your logs from everywhere
